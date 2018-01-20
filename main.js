@@ -3,7 +3,6 @@ const btcNode = require("./nuko.js");
 const withdrawFee = 0.0001;
 const Discord = require('discord.js');
 const token = "your discord token";
-//const token = "Mzg5Njg1MTA3ODIyMjk3MDkx.DTXzbQ.lelW7fLQ2HOfjH775A7Nj8QxSIA";//test
 var client = new(require("discord.js")).Client();
 var accounts = [];
 var recentTx = [];
