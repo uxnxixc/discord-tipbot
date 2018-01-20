@@ -1,12 +1,11 @@
 {
-  "name": "btc-tipbot",
+  "name": "nuko-tipbot",
   "version": "1.0.0",
-  "description": "BTC Discord TipBot.",
+  "description": "Nekonium Discord TipBot.",
   "main": "main.js",
-  "author": "Luke Parker/Luke Kayaba/TechAspirer/Kayaba/kayabaNerve and 17robots",
+  "author": "Mike_theminer's enhanced version from Luke Parker/Luke Kayaba/TechAspirer/Kayaba/kayabaNerve and 17robots",
   "license": "MIT",
   "dependencies": {
-    "bitcoin": "^3.0.1",
     "discord.js": "^11.2.1",
     "ethereumjs-tx": "^1.3.3",
     "lowdb": "^1.0.0",
