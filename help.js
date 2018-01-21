@@ -13,20 +13,20 @@ This bot uses minimum tip & withdraw amount of (0.01 NUKO).
 By running tipnuko init, you agree to release the coder, owner, and other parties related to this bot, from any and all liability. This is BETA software. You may lose money.`;
 */
 var defaultHelp1 = `
-How to use \'tipnuko\' :cat2:
-
-**To receive tip from others**
-You don\'t have to do anything!! :smiley_cat: 
-I\'ll keep track of your balance until you *withdraw*
-Type *tipnuko balance* to check how much you own!
-
-**To send tip or withdraw  NUKO**
-If this is your first time, you must tell me your Nekonium Address. If you don't have one, please create one from a Wallet.
-
-Three simple steps...
-1) *tipnuko init*
-   Displays confirmation text
-2) *tipnuko init [YOUR_ADDRESS]*
+[How to use \'tipnuko\' :cat2:]\n
+\n
+**To receive tip from others**\n
+You don\'t have to do anything!! :smiley_cat: \n
+I\'ll keep track of your balance until you *withdraw*\n
+Type \`tipnuko balance\` to check how much you own!\n
+\n
+**To send tip or withdraw  NUKO**\n
+If this is your first time, you must tell me your Nekonium Address. If you don't have one, please create one from a Wallet.\n
+\n
+Three simple steps...\n
+1) \`tipnuko init\`\n
+   Displays confirmation text.\n
+2) \`tipnuko init YOUR_NUKO_ADDRESS\`\n
    Accept confirmation & Set up your account using [YOUR_ADDRESS]
 3) Using a Wallet, send me some NUKOs from [YOUR_ADDRESS] to my address (QR code below)
    [0x219c8ad..](http://nekonium.network/account/0x219c8ad16caccf141bd02be063b221bf1ac0bdd9)
